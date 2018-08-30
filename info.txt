@@ -1,0 +1,14 @@
+Base de dados pública da cidade de São Paulo.
+
+Base de dados em .xlsx, referente ao primeiro semestre de 2018 - Entre 1° de janeiro de 2018 a 30 de junho de 2018
+
+Fonte de dados Geral: http://dados.prefeitura.sp.gov.br/pt_PT/
+
+Fonte de Dados Direta: http://dados.prefeitura.sp.gov.br/pt_PT/dataset/dados-do-sp156
+
+=================
+
+O objetivo desse estudo é retornar o maior número de informações dessa base, implementando técnicas de ciência de dados.
+
+=================
+
